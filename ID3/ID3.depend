@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1579283435 source:c:\users\калин\desktop\id3\main.cpp
+	<iostream>
+	"Classificator.h"
+	"Tree.h"
+	<string>
+
+1577635719 c:\users\калин\desktop\id3\classificator.h
+	"Tree.h"
+	<vector>
+	<string>
+	<map>
+	<set>
+	<utility>
+
+1579284385 source:c:\users\калин\desktop\id3\classificator.cpp
+	"Classificator.h"
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	<ctime>
+	<math.h>
+	<map>
+	<set>
+	<utility>
+	<iostream>
+
+1577641746 source:c:\users\калин\desktop\id3\tree.cpp
+	"Tree.h"
+	<vector>
+	<string>
+	<queue>
+	<map>
+	<iostream>
+
+1577619885 c:\users\калин\desktop\id3\tree.h
+	"Classificator.h"
+	<vector>
+	<string>
+	<map>
+

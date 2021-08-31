@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1578738381 source:c:\users\калин\desktop\kmeans\main.cpp
+	<iostream>
+	"Classificator.h"
+	<stdio.h>
+	<vector>
+
+1578738016 source:c:\users\калин\desktop\kmeans\classificator.cpp
+	"Classificator.h"
+	<vector>
+	<fstream>
+	<climits>
+	<cstdlib>
+	<ctime>
+	<set>
+	<math.h>
+	<utility>
+	<iostream>
+
+1578735774 c:\users\калин\desktop\kmeans\classificator.h
+	<vector>
+

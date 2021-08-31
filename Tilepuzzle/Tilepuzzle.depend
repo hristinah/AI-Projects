@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1571566182 source:c:\users\калин\desktop\tilepuzzle\tile.cpp
+	"Tile.h"
+	<stdlib.h>
+	<bits/stdc++.h>
+	<iostream>
+
+1571566272 c:\users\калин\desktop\tilepuzzle\tile.h
+
+1571590927 source:c:\users\калин\desktop\tilepuzzle\main.cpp
+	<iostream>
+	"Tile.h"
+	"Node.h"
+	<math.h>
+
+1575538505 source:c:\users\калин\desktop\tilepuzzle\node.cpp
+	"Node.h"
+	"Tile.h"
+	<iostream>
+	<vector>
+	<limits>
+
+1571590324 c:\users\калин\desktop\tilepuzzle\node.h
+	"Tile.h"
+	<vector>
+

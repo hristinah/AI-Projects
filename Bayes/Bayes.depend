@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1577019598 source:c:\users\калин\desktop\bayes\main.cpp
+	<iostream>
+	"Classificator.h"
+
+1577028233 c:\users\калин\desktop\bayes\classificator.h
+	<vector>
+	<string>
+
+1577349323 source:c:\users\калин\desktop\bayes\classificator.cpp
+	"Classificator.h"
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	<ctime>
+	<math.h>
+	<iostream>
+

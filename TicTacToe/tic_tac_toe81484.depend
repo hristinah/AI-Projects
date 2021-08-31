@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1574966884 source:c:\users\Í‡ÎËÌ\desktop\tic_tac_toe81484\field.cpp
+	"Field.h"
+	<iostream>
+	<set>
+	<iterator>
+
+1574947916 c:\users\Í‡ÎËÌ\desktop\tic_tac_toe81484\field.h
+	<iostream>
+	<set>
+
+1574966124 source:c:\users\Í‡ÎËÌ\desktop\tic_tac_toe81484\abp.cpp
+	"ABP.h"
+	"Field.h"
+	<algorithm>
+	<iostream>
+
+1574961813 c:\users\Í‡ÎËÌ\desktop\tic_tac_toe81484\abp.h
+	"Field.h"
+
+1574966167 source:c:\users\Í‡ÎËÌ\desktop\tic_tac_toe81484\main.cpp
+	<iostream>
+	"Field.h"
+	"ABP.h"
+
+1574966124 source:d:\’–»—“»Õ¿\»»\tic_tac_toe81484\abp.cpp
+	"ABP.h"
+	"Field.h"
+	<algorithm>
+	<iostream>
+
+1574961813 d:\’–»—“»Õ¿\»»\tic_tac_toe81484\abp.h
+	"Field.h"
+
+1574947916 d:\’–»—“»Õ¿\»»\tic_tac_toe81484\field.h
+	<iostream>
+	<set>
+
+1574966884 source:d:\’–»—“»Õ¿\»»\tic_tac_toe81484\field.cpp
+	"Field.h"
+	<iostream>
+	<set>
+	<iterator>
+
+1574966167 source:d:\’–»—“»Õ¿\»»\tic_tac_toe81484\main.cpp
+	<iostream>
+	"Field.h"
+	"ABP.h"
+

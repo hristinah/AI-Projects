@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1575546902 source:c:\users\калин\desktop\travelingsalesman.81484\main.cpp
+	<iostream>
+	"Map.h"
+	"GA.h"
+	<utility>
+	<vector>
+
+1573976525 c:\users\калин\desktop\travelingsalesman.81484\map.h
+	<utility>
+	<vector>
+	<map>
+	"GA.h"
+
+1573983194 source:c:\users\калин\desktop\travelingsalesman.81484\map.cpp
+	"Map.h"
+	"GA.h"
+	<iostream>
+	<utility>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<algorithm>
+	<vector>
+	<map>
+	<iterator>
+
+1574017833 c:\users\калин\desktop\travelingsalesman.81484\ga.h
+	"Map.h"
+	<vector>
+	<utility>
+
+1574018404 source:c:\users\калин\desktop\travelingsalesman.81484\ga.cpp
+	"GA.h"
+	"Map.h"
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+	<utility>
+	<ctime>
+	<cstdlib>
+	<math.h>
+	<random>
+
