@@ -1,7 +1,7 @@
 ## Групиране на точки
 **Условие**
 Използвайте алгоритъма kMeans за да се определят автоматично групи от сходни <br>
-елементи (клъстери) за наборите от данни ["normal.txt"]() и ["unbalance.txt"](). <br>
+елементи (клъстери) за наборите от данни ["normal.txt"](https://github.com/hristinah/AI-Projects/blob/main/KMeans/normal.txt) и ["unbalance.txt"](). <br>
 
 **Вход:** <br>
 име на файл и брой клъстери. <br>
